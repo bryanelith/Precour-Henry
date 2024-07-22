@@ -1,2 +1,1 @@
-# Precour-Henry
-Es un repocitorio del modulo 2 de henry
+este es un proyecto de como clonar un repositorio desde github a mi escritorio local. 
